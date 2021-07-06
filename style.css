@@ -1,5 +1,7 @@
 section{
     display: flex;
+
+
 }
 body{
     margin: 0;
@@ -48,4 +50,33 @@ span{
 .box3{
     margin-top: 10%;
     margin-left: 5%;
+}
+.main-box{
+    display: flex;
+    
+
+}
+.box4{
+    border: 20px solid;
+    border-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 20px gray;
+
+}
+.box4 img{
+width: 100%;
+}
+
+.text-align{
+    text-align: center;
+    
+}
+.margin{
+    margin-bottom: 5%;
+}
+.text1{
+    font-family: fantasy;
 }
