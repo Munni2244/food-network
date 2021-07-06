@@ -80,3 +80,39 @@ width: 100%;
 .text1{
     font-family: fantasy;
 }
+#text3{
+    color: hotpink;
+}
+#text4{
+    color: rgb(116, 172, 12);
+}
+.box5{
+    text-align: center;
+    background-color: black;
+    width: 100%;
+}
+#color{
+    color: lightskyblue;
+}
+.main-box6{
+    display: flex;
+}
+.main-box6 img{
+    width: 100%;
+    
+}
+.border{
+    width: 100%;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(240, 215, 238);
+    border: 5px;
+    border-color: rgb(236, 117, 177);
+    border-radius: 5px;
+}
+.border{
+    box-shadow: 10px 10px 10px  rgb(109, 98, 109);
+}
