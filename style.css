@@ -1,6 +1,9 @@
 section{
     display: flex;
 }
+body{
+    margin: 0;
+}
 .header{
     font-family: fantasy;
     font-size: 40px;
@@ -12,8 +15,10 @@ span{
     text-decoration: none;
     background-color: pink;
     padding: 10px 30px;
-    border-radius: 5px;
+    border-radius: 20px 5px;
     font-style: 700;
+    box-shadow: inset 0px 0px 8px 3px rgb(119, 109, 109);
+    color: white
 
 }
 .link-button{
@@ -34,5 +39,13 @@ span{
 }
 .box-margin{
     margin-top: 5%;
+    margin-left: 5%;
+}
+
+.box2 img{ 
+    width: 200%;
+}
+.box3{
+    margin-top: 10%;
     margin-left: 5%;
 }
